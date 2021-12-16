@@ -1,0 +1,19 @@
+body
+{
+background-size:cover;
+}
+.heading
+{
+font-size:35px;
+margin-bottom:40px;
+}
+#start,#number_of_objects
+{
+  font-size:20px;
+}
+canvas
+{
+    box-shadow:5px 5px 5px purple;
+    margin-top:150px;
+
+}
